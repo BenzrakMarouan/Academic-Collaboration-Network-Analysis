@@ -15,4 +15,4 @@ The Academic Collaboration Network Analysis project is a tool designed to explor
 4. Visualize Results: Explore collaboration networks through interactive visualizations and interpret the generated metrics.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](LICENSE.md).
